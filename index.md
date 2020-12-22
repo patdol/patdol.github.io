@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Index Title
 ---
 # Welcome!
 Add text here to the welcome page / topic area
