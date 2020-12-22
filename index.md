@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Patrick Scott Dolinger
+title: 
 ---
 # Welcome!
 Add text here to the welcome page / topic area
