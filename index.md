@@ -5,8 +5,8 @@ title: Welcome!
 ## This is topic 1 - two hashes
 Add text here to the welcome page / topic area
 
-# Second header title
-Second text 
+## Second header title
+Second text x 2
 
 ## How to contribute
 
